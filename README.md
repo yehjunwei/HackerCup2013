@@ -146,6 +146,7 @@ Each case begins with a line containing integers N and K. The next line contains
 For test case i, numbered from 1 to T, output 「Case #i: 「, followed by a single integer, the sum of maximal elements for all subsets of size K modulo 1 000 000 007.  
 
 **Example**
+
 For a = [3, 6, 2, 8] and N = 4 and K = 3, the maximal numbers among all triples are 6, 8, 8, 8 and the sum is 30.  
 
 **Sample Input**  
